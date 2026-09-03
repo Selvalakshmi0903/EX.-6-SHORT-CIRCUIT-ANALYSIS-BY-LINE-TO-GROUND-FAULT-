@@ -30,7 +30,11 @@ neglected.
 8. Stop the execution
 
 # CIRCUIT DIAGRAM:
+<img width="146" height="345" alt="image" src="https://github.com/user-attachments/assets/57d67ceb-46c5-44fc-93a5-cf1881528ebe" />
+
 # OUTPUT:
+<img width="851" height="335" alt="image" src="https://github.com/user-attachments/assets/e4eb0ef7-6b25-4446-805f-21ea861d899d" />
+
 # RESULT: 
 Thus short circuit analysis by line to ground fault is performed in etap software and the output is verified
 
